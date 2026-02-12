@@ -1,0 +1,7 @@
+{
+  "name": " Nexus-AI MVP",
+  "description": "An AI-driven autonomous CI/CD platform dashboard for project scanning, stack detection, security gates, and self-healing build failures.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
